@@ -22,8 +22,7 @@ Endüstriyel otomasyon, iş süreçleri (BPA) ve B2B çözümlerine odaklanmış
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uugurakbas&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uugurakbas&layout=compact&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=uugurakbas&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 > **💡 Not:** Profesyonel çalışmalarımın büyük bir kısmı gizli (private) kurumsal projelerden ve B2B çözümlerinden oluşmaktadır. Aktivite grafiğimdeki yoğunluk bu projelerin bir yansımasıdır.
@@ -47,7 +46,7 @@ Endüstriyel otomasyon, iş süreçleri (BPA) ve B2B çözümlerine odaklanmış
 ### 📫 Bağlantı Kurun
 
 <p align="left">
-  <a href="www.linkedin.com/in/uğur-akbaş-273a7a17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="uugurakbas" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/uğur-akbaş-273a7a17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="uugurakbas" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@Uugurakbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"         alt="uugurakbas" height="30" width="40" float  /></a>
 </p>
 
