@@ -34,7 +34,6 @@ Endüstriyel otomasyon, iş süreçleri (BPA) ve B2B çözümlerine odaklanmış
 
 - **📦 BuPack:** Ambalaj sektörü için özel olarak geliştirilmiş, maliyet ve fiyatlandırma otomasyonu sunan B2B SaaS platformu.
 - **🎓 TAÜ Mobil:** Türk-Alman Üniversitesi için geliştirilen, 6 kişilik bir ekiple liderlik ettiğim resmi kampüs yaşam uygulaması.
-- **🏎️ TGU Racing:** Formula Student takımı için geliştirilen araç içi haberleşme ve gömülü sistem çözümleri.
 
 ---
 
@@ -49,7 +48,8 @@ Endüstriyel otomasyon, iş süreçleri (BPA) ve B2B çözümlerine odaklanmış
 
 <p align="left">
 <a href="www.linkedin.com/in/uğur-akbaş-273a7a17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uugurakbas" height="30" width="40" /></a>
-<a href="[www.linkedin.com/in/uğur-akbaş-273a7a17a](https://www.youtube.com/@UugurAkbas/featured)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube-alt.svg" alt="uugurakbas" height="30" width="40" /></a>
+
+  <a href="https://www.youtube.com/@Uugurakbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uugurakbas" height="30" width="40" /></a>
 </p>
 
 <p align="center">
